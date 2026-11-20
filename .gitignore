@@ -1,0 +1,22 @@
+# Checkpoints et artefacts d'entraînement
+*.pth
+*.pt
+*.pkl
+
+# Données volumineuses
+
+# Environnements Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+uv.lock
+
+# macOS
+.DS_Store
+
+# Jeu de données du projet 05 (environ 400 Mo, téléchargé par le notebook)
+Projet_05/data/
+
+# Documents personnels
+Preparation_Entretiens/
